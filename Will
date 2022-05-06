@@ -1,0 +1,7 @@
+public class Will {
+int max = 100;
+int min = -100;
+void public buildYourWill (Mine me, level mylevel){
+   return null;
+}
+}
